@@ -1,0 +1,1 @@
+<ArrayOfMedico xmlns="http://schemas.datacontract.org/2004/07/Terapia_Intensiva_2018" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Medico><id>0</id><psw>-1286596698</psw><username>edoardo.grassi</username><name>Edoardo</name><surname>Grassi</surname><specializzazione>Neurologia</specializzazione></Medico></ArrayOfMedico>
