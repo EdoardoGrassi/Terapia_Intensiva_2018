@@ -4,15 +4,15 @@ namespace Terapia_Intensiva_2018
 {
     public class Farmaco
     {
-        String name;
-        public Farmaco(String name)
-        {
-            this.name = name;
-        }
+        public readonly uint AicCode;
 
-        public String getName()
+        public readonly string CommercialName;
+
+
+        public Farmaco(uint code, string name)
         {
-            return this.name;
+            this.AicCode = code;
+            this.CommercialName = name;
         }
     }
 }
